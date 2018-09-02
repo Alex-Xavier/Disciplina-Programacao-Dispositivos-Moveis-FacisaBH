@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlexXavier</string>
+    <string name="title_activity_main_app">MainActivityApp</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
