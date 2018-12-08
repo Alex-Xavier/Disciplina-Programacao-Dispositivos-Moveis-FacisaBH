@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7d812429ee190be05216fb0bcd75a4c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6bbc79e712f40c5feb4028aa185aa63b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/19ee63a02fbdd24e5705e8c61c9f06ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/6db2d6d82900e8e5b098159a559f3d1b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f0e384741606fad013fb054f34530b41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/fa9316520f7896c21c035e3a54b98a9b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/d3ebecc6405cf09d75475774dc7baa12/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9a6be56c40bf675bb0a56df6213ed774/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f05be15318ab866d37e8fefcc391fdd5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/980abc0752702bc3d905946e0fa94ad8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/308002d04f9ca2a6511c246b622df521/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/42a4f4823c4c905ba2444abb1df10448/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/20cc214f069dc91805299995e236c910/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b9c48242cae858a8cc594ab3eb3920ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/614f232dbbc67d6ff1969487d473e14e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f03396f3b8ea00034ddafb0337b79bd1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/1577e8744a0578cac11a774f4eaff9e6/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/04399da521854d278798f29508eeb60d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/27ef1659bbeef9e2f4562d78121564fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/0f3d184afecbda18482f66e836a182af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/fc2f785feca2fd264ccaea1eb91fe576/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/aa2dda0bba9ab332e10251f21bbba254/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/0c17dbec168fe1dba375f17ecabbb656/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c4afff9bae27e3ace46bef3decbcea19/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f350a571941317ac6fe37c7e1b9a0838/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c371f7fab92233fed8b4887e1149f779/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a3ecf59043dd11da1c3c141b45f87a58/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml
+		ADDED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml
+		ADDED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6bbc79e712f40c5feb4028aa185aa63b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6bbc79e712f40c5feb4028aa185aa63b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f03396f3b8ea00034ddafb0337b79bd1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f03396f3b8ea00034ddafb0337b79bd1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/1577e8744a0578cac11a774f4eaff9e6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/1577e8744a0578cac11a774f4eaff9e6/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f03396f3b8ea00034ddafb0337b79bd1/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.ads.pesoideal.MainActivity
+ADDED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml
+INJECTED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7d812429ee190be05216fb0bcd75a4c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7d812429ee190be05216fb0bcd75a4c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6bbc79e712f40c5feb4028aa185aa63b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6bbc79e712f40c5feb4028aa185aa63b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/19ee63a02fbdd24e5705e8c61c9f06ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/19ee63a02fbdd24e5705e8c61c9f06ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/6db2d6d82900e8e5b098159a559f3d1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/6db2d6d82900e8e5b098159a559f3d1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f0e384741606fad013fb054f34530b41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f0e384741606fad013fb054f34530b41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/fa9316520f7896c21c035e3a54b98a9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/fa9316520f7896c21c035e3a54b98a9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/d3ebecc6405cf09d75475774dc7baa12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/d3ebecc6405cf09d75475774dc7baa12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9a6be56c40bf675bb0a56df6213ed774/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9a6be56c40bf675bb0a56df6213ed774/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f05be15318ab866d37e8fefcc391fdd5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/f05be15318ab866d37e8fefcc391fdd5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/980abc0752702bc3d905946e0fa94ad8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/980abc0752702bc3d905946e0fa94ad8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/308002d04f9ca2a6511c246b622df521/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/308002d04f9ca2a6511c246b622df521/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/42a4f4823c4c905ba2444abb1df10448/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/42a4f4823c4c905ba2444abb1df10448/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/20cc214f069dc91805299995e236c910/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/20cc214f069dc91805299995e236c910/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b9c48242cae858a8cc594ab3eb3920ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b9c48242cae858a8cc594ab3eb3920ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/614f232dbbc67d6ff1969487d473e14e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/614f232dbbc67d6ff1969487d473e14e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f03396f3b8ea00034ddafb0337b79bd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f03396f3b8ea00034ddafb0337b79bd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/1577e8744a0578cac11a774f4eaff9e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/1577e8744a0578cac11a774f4eaff9e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/04399da521854d278798f29508eeb60d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/04399da521854d278798f29508eeb60d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/27ef1659bbeef9e2f4562d78121564fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/27ef1659bbeef9e2f4562d78121564fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/0f3d184afecbda18482f66e836a182af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/0f3d184afecbda18482f66e836a182af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/fc2f785feca2fd264ccaea1eb91fe576/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/fc2f785feca2fd264ccaea1eb91fe576/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/aa2dda0bba9ab332e10251f21bbba254/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/aa2dda0bba9ab332e10251f21bbba254/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/0c17dbec168fe1dba375f17ecabbb656/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/0c17dbec168fe1dba375f17ecabbb656/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c4afff9bae27e3ace46bef3decbcea19/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c4afff9bae27e3ace46bef3decbcea19/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f350a571941317ac6fe37c7e1b9a0838/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f350a571941317ac6fe37c7e1b9a0838/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c371f7fab92233fed8b4887e1149f779/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c371f7fab92233fed8b4887e1149f779/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a3ecf59043dd11da1c3c141b45f87a58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/alex-tosh/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a3ecf59043dd11da1c3c141b45f87a58/AndroidManifest.xml:20:5-44
+INJECTED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml
+INJECTED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml
+		ADDED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml
+		ADDED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alex-tosh/Downloads/Exercício Peso Ideal/app/src/main/AndroidManifest.xml
